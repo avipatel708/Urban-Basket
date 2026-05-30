@@ -1,0 +1,29 @@
+[
+  {
+    "id": "b0cdab86-b105-4edc-90c6-b1be6e6c889e",
+    "user_id": "9df3856f-392d-4130-92a2-d9192cc683bd",
+    "type": "debit",
+    "amount": 1999,
+    "status": "completed",
+    "reference": "mystery_151518e8-8e90-424b-a544-c77ce825b297",
+    "created_at": "2026-05-30T04:45:43.505Z"
+  },
+  {
+    "id": "97a88f61-d132-40e3-9e09-5d305e7fe09a",
+    "user_id": "9df3856f-392d-4130-92a2-d9192cc683bd",
+    "type": "debit",
+    "amount": 2595,
+    "status": "completed",
+    "reference": "order_3f507e96-836f-4ceb-8616-131993d9857a",
+    "created_at": "2026-05-29T11:44:27.169Z"
+  },
+  {
+    "id": "535e44df-9ee2-4d29-b050-fb0d94d88e7c",
+    "user_id": "9df3856f-392d-4130-92a2-d9192cc683bd",
+    "type": "credit",
+    "amount": 4720,
+    "status": "completed",
+    "reference": "return_order_3f4be402-48e3-4e78-a66d-b7e8fbb7f568",
+    "created_at": "2026-05-29T11:41:19.330Z"
+  }
+]

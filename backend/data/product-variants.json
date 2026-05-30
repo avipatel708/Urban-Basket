@@ -1,0 +1,338 @@
+{
+  "velocity-running-shoes-x1": {
+    "has_sizes": true,
+    "sizes": ["6 UK", "7 UK", "8 UK", "9 UK", "10 UK"],
+    "size_chart": true,
+    "color_display": "grid",
+    "colors": [
+      {
+        "id": "red-white",
+        "name": "Red/White",
+        "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&q=80",
+        "price": 2399,
+        "mrp": 4999,
+        "stock": 14
+      },
+      {
+        "id": "blue-navy",
+        "name": "Blue/Navy",
+        "image_url": "https://images.unsplash.com/photo-1606107557195-0a29b4b4b4aa?w=500&q=80",
+        "price": 2499,
+        "mrp": 4999,
+        "stock": 11
+      },
+      {
+        "id": "black-grey",
+        "name": "Black/Grey",
+        "image_url": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500&q=80",
+        "price": 2599,
+        "mrp": 4999,
+        "stock": 9
+      },
+      {
+        "id": "green-lime",
+        "name": "Green/Lime",
+        "image_url": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&q=80",
+        "price": 2299,
+        "mrp": 4999,
+        "stock": 8
+      },
+      {
+        "id": "white-orange",
+        "name": "White/Orange",
+        "image_url": "https://images.unsplash.com/photo-1460353581641-37baddab0fa0?w=500&q=80",
+        "price": 2399,
+        "mrp": 4999,
+        "stock": 12
+      }
+    ]
+  },
+  "aurora-designer-backpack": {
+    "has_sizes": false,
+    "color_display": "strip",
+    "colors": [
+      {
+        "id": "black",
+        "name": "Black",
+        "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&q=80",
+        "price": 1899,
+        "mrp": 2499,
+        "stock": 22
+      },
+      {
+        "id": "brown",
+        "name": "Brown",
+        "image_url": "https://images.unsplash.com/photo-1622560480605-d63caff33d2c?w=500&q=80",
+        "price": 1899,
+        "mrp": 2499,
+        "stock": 18
+      },
+      {
+        "id": "navy",
+        "name": "Navy",
+        "image_url": "https://images.unsplash.com/photo-1581605405669-89476e591a7e?w=500&q=80",
+        "price": 1999,
+        "mrp": 2599,
+        "stock": 15
+      },
+      {
+        "id": "olive",
+        "name": "Olive",
+        "image_url": "https://images.unsplash.com/photo-1594223274512-ad4803739299?w=500&q=80",
+        "price": 1899,
+        "mrp": 2499,
+        "stock": 12
+      }
+    ]
+  },
+  "horizon-polarized-sunglasses": {
+    "has_sizes": false,
+    "color_display": "strip",
+    "colors": [
+      {
+        "id": "gold",
+        "name": "Gold",
+        "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&q=80",
+        "price": 2199,
+        "mrp": 2999,
+        "stock": 20
+      },
+      {
+        "id": "black",
+        "name": "Black",
+        "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500&q=80",
+        "price": 2199,
+        "mrp": 2999,
+        "stock": 18
+      },
+      {
+        "id": "silver",
+        "name": "Silver",
+        "image_url": "https://images.unsplash.com/photo-1574258495973-f010dfcc6145?w=500&q=80",
+        "price": 2299,
+        "mrp": 3099,
+        "stock": 14
+      },
+      {
+        "id": "tortoise",
+        "name": "Tortoise",
+        "image_url": "https://images.unsplash.com/photo-1473496169904-658ba7c44d8a?w=500&q=80",
+        "price": 2199,
+        "mrp": 2999,
+        "stock": 11
+      }
+    ]
+  },
+  "nebula-smart-watch-ultra": {
+    "has_sizes": true,
+    "sizes": ["S", "M", "L"],
+    "size_chart": true,
+    "color_display": "strip",
+    "colors": [
+      {
+        "id": "midnight",
+        "name": "Midnight Black",
+        "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80",
+        "price": 4999,
+        "mrp": 6499,
+        "stock": 10
+      },
+      {
+        "id": "silver",
+        "name": "Silver",
+        "image_url": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=500&q=80",
+        "price": 5199,
+        "mrp": 6699,
+        "stock": 8
+      },
+      {
+        "id": "rose-gold",
+        "name": "Rose Gold",
+        "image_url": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=500&q=80",
+        "price": 5299,
+        "mrp": 6799,
+        "stock": 6
+      }
+    ]
+  },
+  "quantum-pro-wireless-headphones": {
+    "has_sizes": false,
+    "color_display": "strip",
+    "colors": [
+      {
+        "id": "black",
+        "name": "Black",
+        "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+        "price": 2999,
+        "mrp": 3999,
+        "stock": 18
+      },
+      {
+        "id": "white",
+        "name": "White",
+        "image_url": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500&q=80",
+        "price": 2999,
+        "mrp": 3999,
+        "stock": 14
+      },
+      {
+        "id": "blue",
+        "name": "Blue",
+        "image_url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500&q=80",
+        "price": 3099,
+        "mrp": 4099,
+        "stock": 13
+      }
+    ]
+  },
+  "aether-noise-cancelling-earbuds": {
+    "has_sizes": false,
+    "color_display": "strip",
+    "colors": [
+      {
+        "id": "black",
+        "name": "Black",
+        "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=500&q=80",
+        "price": 1999,
+        "mrp": 2799,
+        "stock": 20
+      },
+      {
+        "id": "white",
+        "name": "White",
+        "image_url": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2ece?w=500&q=80",
+        "price": 1999,
+        "mrp": 2799,
+        "stock": 17
+      },
+      {
+        "id": "mint",
+        "name": "Mint",
+        "image_url": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcf?w=500&q=80",
+        "price": 2099,
+        "mrp": 2899,
+        "stock": 12
+      }
+    ]
+  },
+  "titan-mechanical-keyboard": {
+    "has_sizes": false,
+    "color_display": "strip",
+    "colors": [
+      {
+        "id": "black",
+        "name": "Black",
+        "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&q=80",
+        "price": 1799,
+        "mrp": 2499,
+        "stock": 16
+      },
+      {
+        "id": "white",
+        "name": "White",
+        "image_url": "https://images.unsplash.com/photo-1618384887929-16ec33fab0ef?w=500&q=80",
+        "price": 1899,
+        "mrp": 2599,
+        "stock": 14
+      },
+      {
+        "id": "grey",
+        "name": "Space Grey",
+        "image_url": "https://images.unsplash.com/photo-1595225472464-8758997076e1?w=500&q=80",
+        "price": 1799,
+        "mrp": 2499,
+        "stock": 12
+      }
+    ]
+  },
+  "echo-smart-speaker-hub": {
+    "has_sizes": false,
+    "color_display": "strip",
+    "colors": [
+      {
+        "id": "charcoal",
+        "name": "Charcoal",
+        "image_url": "https://images.unsplash.com/photo-1558089687-f282d8b1b1b1?w=500&q=80",
+        "price": 2999,
+        "mrp": 3799,
+        "stock": 14
+      },
+      {
+        "id": "sand",
+        "name": "Sand",
+        "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&q=80",
+        "price": 2999,
+        "mrp": 3799,
+        "stock": 12
+      },
+      {
+        "id": "navy",
+        "name": "Navy",
+        "image_url": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=500&q=80",
+        "price": 3099,
+        "mrp": 3899,
+        "stock": 10
+      }
+    ]
+  },
+  "prism-led-smart-desk-lamp": {
+    "has_sizes": false,
+    "color_display": "strip",
+    "colors": [
+      {
+        "id": "white",
+        "name": "White",
+        "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057ab6fe?w=500&q=80",
+        "price": 1299,
+        "mrp": 1699,
+        "stock": 30
+      },
+      {
+        "id": "black",
+        "name": "Black",
+        "image_url": "https://images.unsplash.com/photo-1524484488031-a93d949cde77?w=500&q=80",
+        "price": 1299,
+        "mrp": 1699,
+        "stock": 28
+      },
+      {
+        "id": "rose",
+        "name": "Rose Gold",
+        "image_url": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500&q=80",
+        "price": 1399,
+        "mrp": 1799,
+        "stock": 20
+      }
+    ]
+  },
+  "zenith-yoga-mat-premium": {
+    "has_sizes": false,
+    "color_display": "strip",
+    "colors": [
+      {
+        "id": "purple",
+        "name": "Purple",
+        "image_url": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500&q=80",
+        "price": 799,
+        "mrp": 999,
+        "stock": 40
+      },
+      {
+        "id": "teal",
+        "name": "Teal",
+        "image_url": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=500&q=80",
+        "price": 799,
+        "mrp": 999,
+        "stock": 35
+      },
+      {
+        "id": "black",
+        "name": "Black",
+        "image_url": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500&q=80",
+        "price": 799,
+        "mrp": 999,
+        "stock": 38
+      }
+    ]
+  }
+}

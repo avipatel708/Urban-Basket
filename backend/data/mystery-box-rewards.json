@@ -1,0 +1,78 @@
+[
+  {
+    "id": "6ab13aa7-5f9c-41e2-b8c3-0ad0af092829",
+    "user_id": "9df3856f-392d-4130-92a2-d9192cc683bd",
+    "mystery_box_id": "mb-electronics-001",
+    "order_id": "151518e8-8e90-424b-a544-c77ce825b297",
+    "products": [
+      {
+        "product_id": "d31d15a5-0dfa-4424-a60a-fdc8d85875a8",
+        "title": "Titan Mechanical Keyboard",
+        "price": 1799,
+        "quantity": 1,
+        "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&q=80",
+        "category": "electronics"
+      },
+      {
+        "product_id": "a156e63f-2be4-4f7c-ac13-e56ada78ab8e",
+        "title": "Quantum Pro Wireless Headphones",
+        "price": 2999,
+        "quantity": 1,
+        "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+        "category": "electronics"
+      }
+    ],
+    "total_retail_value": 4798,
+    "box_price": 1999,
+    "created_at": "2026-05-30T04:45:43.802Z"
+  },
+  {
+    "id": "d57fb8ff-ba54-4dc9-be9a-283c5b143432",
+    "user_id": "ae3adfbc-5455-47d2-89fc-2d71b457b65f",
+    "mystery_box_id": "mb-budget-001",
+    "order_id": "8f3d0d80-6852-41a3-b35e-abea4ecfadc6",
+    "products": [
+      {
+        "product_id": "c259dc4f-0422-4b83-bf68-a1acf0de609a",
+        "title": "Aether Noise-Cancelling Earbuds",
+        "price": 1999,
+        "quantity": 1,
+        "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=500&q=80",
+        "category": "electronics"
+      },
+      {
+        "product_id": "390aa4d4-aca5-49f4-9a6a-f4b2df106265",
+        "title": "Zenith Yoga Mat Premium",
+        "price": 799,
+        "quantity": 1,
+        "image_url": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500&q=80",
+        "category": "sports"
+      },
+      {
+        "product_id": "d31d15a5-0dfa-4424-a60a-fdc8d85875a8",
+        "title": "Titan Mechanical Keyboard",
+        "price": 1799,
+        "quantity": 1,
+        "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&q=80",
+        "category": "electronics"
+      }
+    ],
+    "total_retail_value": 4597,
+    "box_price": 499,
+    "created_at": "2026-05-29T16:21:03.565Z"
+  },
+  {
+    "id": "d2ea031c-5c4f-4786-9e1d-5b1b00d85783",
+    "user_id": "test-user",
+    "mystery_box_id": "mb-budget-001",
+    "order_id": "order-1",
+    "products": [
+      {
+        "title": "Test"
+      }
+    ],
+    "total_retail_value": 999,
+    "box_price": 499,
+    "created_at": "2026-05-29T16:20:02.659Z"
+  }
+]
